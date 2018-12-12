@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544605344 source:c:\users\物竞天择，适者生存\desktop\chap08\ex_12\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
