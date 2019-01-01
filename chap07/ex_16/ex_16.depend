@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543906929 source:c:\users\物竞天择，适者生存\desktop\chap07\ex_16\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+	<ctime>
+	<random>
+
