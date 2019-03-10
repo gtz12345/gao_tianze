@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552213874 source:c:\users\物竞天择，适者生存\desktop\chap10\matrixjia\main.cpp
+	<iostream>
+	"Matrixjia.h"
+
+1552214323 c:\users\物竞天择，适者生存\desktop\chap10\matrixjia\include\matrixjia.h
+	<iostream>
+
+1552214276 source:c:\users\物竞天择，适者生存\desktop\chap10\matrixjia\src\matrixjia.cpp
+	"Matrixjia.h"
+	<iomanip>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552215453 source:c:\users\物竞天择，适者生存\desktop\chap10\ex_01\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1552215645 c:\users\物竞天择，适者生存\desktop\chap10\ex_01\include\matrix.h
+	<iostream>
+
+1552214963 source:c:\users\物竞天择，适者生存\desktop\chap10\ex_01\src\matrix.cpp
+	"Matrix.h"
+	<iomanip>
+
