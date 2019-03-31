@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554032574 source:c:\users\物竞天择，适者生存\desktop\ex_11\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1554032833 c:\users\物竞天择，适者生存\desktop\ex_11\include\polynomial.h
+
+1554031498 source:c:\users\物竞天择，适者生存\desktop\ex_11\src\polynomial.cpp
+	<iostream>
+	<iomanip>
+	"Polynomial.h"
+
