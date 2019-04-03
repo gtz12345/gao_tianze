@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1554300705 source:c:\users\物竞天择，适者生存\desktop\chap11\ex_09\main.cpp
+	<iostream>
+	"Package.h"
+	"TwoDayPackage.h"
+	"OvernightPackage.h"
+
+1554300162 c:\users\物竞天择，适者生存\desktop\chap11\ex_09\include\package.h
+	<string>
+
+1554300487 c:\users\物竞天择，适者生存\desktop\chap11\ex_09\include\twodaypackage.h
+	<string>
+	"Package.h"
+
+1554299802 c:\users\物竞天择，适者生存\desktop\chap11\ex_09\include\overnightpackage.h
+	"Package.h"
+	<string>
+
+1554299861 source:c:\users\物竞天择，适者生存\desktop\chap11\ex_09\src\overnightpackage.cpp
+	"OvernightPackage.h"
+	<iostream>
+
+1554300469 source:c:\users\物竞天择，适者生存\desktop\chap11\ex_09\src\package.cpp
+	"Package.h"
+
+1554300503 source:c:\users\物竞天择，适者生存\desktop\chap11\ex_09\src\twodaypackage.cpp
+	"TwoDayPackage.h"
+	<iostream>
+
