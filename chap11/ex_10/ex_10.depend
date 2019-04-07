@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1554454192 source:c:\users\administrator\desktop\chap11\ex_10\src\savingsaccount.cpp
+	"SavingsAccount.h"
+
+1554443093 c:\users\administrator\desktop\chap11\ex_10\include\savingsaccount.h
+	<string>
+	"Account.h"
+
+1554454236 c:\users\administrator\desktop\chap11\ex_10\include\account.h
+	<iostream>
+
+1554454262 source:c:\users\administrator\desktop\chap11\ex_10\src\account.cpp
+	"Account.h"
+
+1554454284 source:c:\users\administrator\desktop\chap11\ex_10\src\checkingaccount.cpp
+	"CheckingAccount.h"
+
+1554453862 c:\users\administrator\desktop\chap11\ex_10\include\checkingaccount.h
+	<string>
+	"Account.h"
+
+1554454581 source:c:\users\administrator\desktop\chap11\ex_10\main.cpp
+	<iostream>
+	"Account.h"
+	"SavingsAccount.h"
+	"CheckingAccount.h"
+
